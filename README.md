@@ -1,3 +1,7 @@
+
+# Original Project : https://github.com/invoker-bot/LunaGC
+
+
 # LunaGC 7.1.0
 
 外部项目的适配线索、已核对的本地缺口与后续验证清单见 [2026-10-03 外部实现调研](docs/UPSTREAM_RESEARCH_2026-10-03.md)。
